@@ -1,1 +1,1 @@
-# webdev actvities, assignments, hands on and etc
+# webdev actvities, assignments, hands out and etc
